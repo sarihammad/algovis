@@ -1,6 +1,8 @@
-# AlgoVis - Algorithm Visualization Tool
+# AlgoVis
 
-An interactive algorithm visualization platform for learning and understanding complex algorithms through visual representations.
+An interactive algorithm visualization platform for learning and understanding complex algorithms through visual representations. 
+
+AlgoVis is a web-based algorithm visualization platform using Python, Flask, React, D3.js, and AWS Lambda, covering graph traversal (DFS, BFS, Dijkstra’s, A\*), dynamic programming (Knapsack, LCS), shortest paths, and optimization algorithms (Linear Programming, Min-Cost Flow, Max-Flow)*. Features real-time execution, step-by-step visualization, and performance benchmarking with Big-O analysis.
 
 ## Features
 
